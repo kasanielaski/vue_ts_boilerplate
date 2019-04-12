@@ -39,3 +39,8 @@ yarn run test
   * [Vue-class-component](https://github.com/vuejs/vue-class-component)
   * [Vue-property-decorator](https://github.com/kaorun343/vue-property-decorator)
   * [Typescript](https://www.typescriptlang.org/)
+
+### Todo
+  * Add router
+  * Add Cypress
+  * Make feature-based architecture
