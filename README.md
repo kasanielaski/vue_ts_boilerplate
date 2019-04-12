@@ -35,7 +35,7 @@ yarn run lint
 yarn run test
 ```
 ## Docs:
-.. [Configuration Reference](https://cli.vuejs.org/config/)
-.. [Vue-class-component](https://github.com/vuejs/vue-class-component)
-.. [Vue-property-decorator](https://github.com/kaorun343/vue-property-decorator)
-.. [Typescript](https://www.typescriptlang.org/)
+  * [Configuration Reference](https://cli.vuejs.org/config/)
+  * [Vue-class-component](https://github.com/vuejs/vue-class-component)
+  * [Vue-property-decorator](https://github.com/kaorun343/vue-property-decorator)
+  * [Typescript](https://www.typescriptlang.org/)
