@@ -8,7 +8,7 @@ Pug
 Sass
 Eslint
 Prettier
-Mocha
+Jest
 
 ## Project setup
 ```
