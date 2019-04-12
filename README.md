@@ -41,6 +41,6 @@ yarn run test
   * [Typescript](https://www.typescriptlang.org/)
 
 ### Todo
-  * Add router
+  * ~~Add router~~
   * Add Cypress
   * Make feature-based architecture

@@ -1,18 +1,11 @@
 <template lang="pug">
 .app
-    Mock.app__game
+    router-view.app__router
 </template>
 
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator';
 
-import Mock from './components/Mock.vue';
-
-@Component({
-    components: {
-        Mock
-    }
-})
 export default class App extends Vue {}
 </script>
 
