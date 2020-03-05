@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
-        "target": "es5",
-        "module": "es2015",
+        "target": "es6",
+        "module": "esnext",
         "strict": true,
         "importHelpers": true,
         "moduleResolution": "node",
@@ -13,7 +13,8 @@
         "types": ["webpack-env", "chai", "jest"],
         "paths": {
             "@/*": ["src/*"]
-        }
+        },
+        "typeRoots": ["node_modules/@types"]
     },
     "exclude": ["node_modules"]
 }
